@@ -7,6 +7,8 @@ This project focuses on predicting stock prices using various machine learning m
 - `trainee.ipynb`: This Jupyter Notebook contains the complete analysis and implementation of the models. It includes data preprocessing, model training, evaluation, and visualization of results.
 - `data.csv`: This file contains the raw stock price data used for analysis.
 - `updated_data.csv`: This file is the English version of `data.csv`, making it easier for non-native speakers to understand the dataset.
+- `presentation_english.pptx`: PowerPoint presentation summarizing the project findings and methodologies in English 
+- `presentation_japanese.pptx`: PowerPoint presentation summarizing the project findings and methodologies in Japanese.
 
 ## Requirements
 To run this project, ensure you have the following Python libraries installed:
